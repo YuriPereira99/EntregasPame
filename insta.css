@@ -1,0 +1,24 @@
+*{
+    float: left;
+    margin: 0px 10px 0px 10 px;
+    padding: 10px;}
+
+
+
+.container{
+    width: 100%; display: flex
+}
+
+.bloco1{justify-content: flex-end; float: left;;}
+.bloco2{justify-content: flex-end; float:center;}
+.bloco3{justify-content: flex-end; float:right;}
+.bloco4{justify-content: flex-end; float:right;}
+
+.container2{ display: flex;
+}
+.CaixaDeTexto{display: flexbox; flex-direction: row;}
+
+.text{display:flexbox;flex-direction: row; }
+
+
+
